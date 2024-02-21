@@ -8,7 +8,8 @@ My name is José Netto. I'm 26 years old. student análise e desenvolvimento de 
 
 *   🌍  I'm based in Ceará | Brazil
 *   ✉️  You can contact me at [joseneto1500@gmail.com](mailto:joseneto1500@gmail.com)
-*   🧠  I'm learning ReactJS, NodeJS### Skills 
+*   🧠  I'm learning ReactJS, NodeJS
+### Skills 
 <p align="left">
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
