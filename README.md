@@ -8,8 +8,8 @@ My name is José Netto. I'm 26 years old. student analysis and systems developme
 
 *   🌍  I'm based in Ceará | Brazil
 *   ✉️  You can contact me at [joseneto1500@gmail.com](mailto:joseneto1500@gmail.com)
-*   🌐  [My LinkedIn](https://www.linkedin.com/in/josenettojn/)
-*   🗃️  [My Portfolio](https://jose-netto.vercel.app/)
+*   🌐  [LinkedIn](https://www.linkedin.com/in/josenettojn/)
+*   🗃️  [Portfolio](https://josenetto.vercel.app/)
 ### Skills 
 <p align="left">
 
